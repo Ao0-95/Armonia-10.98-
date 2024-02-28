@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<houses>
+	<house name="Survival house 1" houseid="62" entryx="137" entryy="119" entryz="7" rent="0" townid="0" size="12" />
+	<house name="Survival house 2" houseid="63" entryx="139" entryy="126" entryz="7" rent="0" townid="0" size="9" />
+	<house name="Survival house 3" houseid="64" entryx="143" entryy="126" entryz="7" rent="0" townid="0" size="9" />
+	<house name="Survival house 4" houseid="65" entryx="147" entryy="126" entryz="7" rent="0" townid="0" size="9" />
+	<house name="Survival house 5" houseid="66" entryx="151" entryy="126" entryz="7" rent="0" townid="0" size="9" />
+	<house name="Survival house 6" houseid="67" entryx="165" entryy="124" entryz="7" rent="0" townid="0" size="12" />
+	<house name="Survival house 7" houseid="68" entryx="165" entryy="121" entryz="7" rent="0" townid="0" size="8" />
+	<house name="Survival house 8" houseid="69" entryx="165" entryy="118" entryz="7" rent="0" townid="0" size="12" />
+	<house name="Survival house 9" houseid="70" entryx="186" entryy="93" entryz="7" rent="0" townid="0" size="26" />
+	<house name="Inferesla house 1" houseid="71" entryx="85" entryy="163" entryz="7" rent="0" townid="0" size="33" />
+	<house name="Inferesla house 2" houseid="72" entryx="89" entryy="156" entryz="7" rent="0" townid="0" size="12" />
+	<house name="Inferesla house 3" houseid="73" entryx="89" entryy="153" entryz="7" rent="0" townid="0" size="8" />
+	<house name="Inferesla house 4" houseid="74" entryx="78" entryy="134" entryz="7" rent="0" townid="0" size="9" />
+	<house name="Inferesla house 5" houseid="75" entryx="78" entryy="131" entryz="7" rent="0" townid="0" size="9" />
+	<house name="Inferesla house 6" houseid="76" entryx="74" entryy="134" entryz="7" rent="0" townid="0" size="9" />
+	<house name="Inferesla house 7" houseid="77" entryx="74" entryy="131" entryz="7" rent="0" townid="0" size="9" />
+	<house name="Inferesla house 8" houseid="78" entryx="70" entryy="134" entryz="7" rent="0" townid="0" size="9" />
+	<house name="Inferesla house 9" houseid="79" entryx="70" entryy="131" entryz="7" rent="0" townid="0" size="9" />
+	<house name="Oken house 1" houseid="80" entryx="256" entryy="149" entryz="7" rent="0" townid="0" size="9" />
+	<house name="Oken house 2" houseid="81" entryx="247" entryy="150" entryz="7" rent="0" townid="0" size="9" />
+	<house name="Oken house 3" houseid="82" entryx="241" entryy="150" entryz="7" rent="0" townid="0" size="9" />
+	<house name="Oken house 4" houseid="83" entryx="247" entryy="147" entryz="7" rent="0" townid="0" size="6" />
+	<house name="Oken house 5" houseid="84" entryx="241" entryy="147" entryz="7" rent="0" townid="0" size="6" />
+	<house name="Oken house 6" houseid="85" entryx="247" entryy="143" entryz="7" rent="0" townid="0" size="12" />
+	<house name="Oken house 7" houseid="86" entryx="241" entryy="143" entryz="7" rent="0" townid="0" size="12" />
+	<house name="Oken house 8" houseid="87" entryx="243" entryy="136" entryz="7" rent="0" townid="0" size="9" />
+	<house name="Oken house 9" houseid="88" entryx="239" entryy="136" entryz="7" rent="0" townid="0" size="12" />
+	<house name="Oken house 10" houseid="89" entryx="231" entryy="140" entryz="7" rent="0" townid="0" size="24" />
+	<house name="Oken house 11" houseid="90" entryx="226" entryy="140" entryz="7" rent="0" townid="0" size="24" />
+	<house name="Oken house 12" houseid="91" entryx="235" entryy="165" entryz="7" rent="0" townid="0" size="9" />
+	<house name="Oken house 13" houseid="92" entryx="229" entryy="165" entryz="7" rent="0" townid="0" size="16" />
+	<house name="Oken guild house" houseid="93" entryx="202" entryy="161" entryz="7" rent="0" townid="0" size="109" />
+	<house name="Jungle house 1" houseid="94" entryx="318" entryy="66" entryz="6" rent="0" townid="0" size="20" />
+	<house name="Jungle house 2" houseid="95" entryx="317" entryy="68" entryz="6" rent="0" townid="0" size="24" />
+	<house name="Jungle house 3" houseid="96" entryx="317" entryy="72" entryz="6" rent="0" townid="0" size="24" />
+	<house name="Jungle house 4" houseid="97" entryx="317" entryy="76" entryz="6" rent="0" townid="0" size="24" />
+	<house name="Jungle house 5" houseid="98" entryx="317" entryy="80" entryz="6" rent="0" townid="0" size="24" />
+	<house name="Jungle house 6" houseid="99" entryx="317" entryy="84" entryz="6" rent="0" townid="0" size="24" />
+	<house name="Jungle house 7" houseid="100" entryx="321" entryy="86" entryz="6" rent="0" townid="0" size="25" />
+	<house name="Jungle house 8" houseid="101" entryx="324" entryy="91" entryz="6" rent="0" townid="0" size="15" />
+	<house name="Jungle house 9" houseid="102" entryx="319" entryy="91" entryz="6" rent="0" townid="0" size="9" />
+	<house name="Jungle house 10" houseid="103" entryx="315" entryy="91" entryz="6" rent="0" townid="0" size="9" />
+	<house name="Jungle house 11" houseid="104" entryx="311" entryy="91" entryz="6" rent="0" townid="0" size="9" />
+	<house name="Jungle house 12" houseid="105" entryx="307" entryy="91" entryz="6" rent="0" townid="0" size="9" />
+	<house name="Jungle house 13" houseid="106" entryx="325" entryy="69" entryz="7" rent="0" townid="0" size="15" />
+	<house name="Jungle house 14" houseid="107" entryx="332" entryy="71" entryz="7" rent="0" townid="0" size="24" />
+	<house name="Jungle house 15" houseid="108" entryx="353" entryy="62" entryz="7" rent="0" townid="0" size="12" />
+	<house name="Jungle house 16" houseid="109" entryx="358" entryy="62" entryz="7" rent="0" townid="0" size="15" />
+	<house name="Jungle house 17" houseid="110" entryx="366" entryy="62" entryz="7" rent="0" townid="0" size="18" />
+	<house name="Jungle house 18" houseid="111" entryx="369" entryy="57" entryz="7" rent="0" townid="0" size="39" />
+	<house name="Jungle house 19" houseid="112" entryx="358" entryy="57" entryz="7" rent="0" townid="0" size="31" />
+	<house name="Jungle house 20" houseid="113" entryx="346" entryy="57" entryz="7" rent="0" townid="0" size="31" />
+	<house name="Iskandar house" houseid="114" entryx="210" entryy="58" entryz="7" rent="0" townid="0" size="1" />
+	<house name="Guildhall of the Rose" houseid="115" entryx="143" entryy="78" entryz="7" rent="11450" guildhall="true" townid="1" size="113" />
+	<house name="Guildhall of the City" houseid="116" entryx="139" entryy="64" entryz="7" rent="10800" townid="1" size="98" />
+	<house name="Lower Water Lane 1" houseid="117" entryx="158" entryy="78" entryz="7" rent="585" townid="1" size="10" />
+	<house name="Lower Water Lane 2" houseid="118" entryx="158" entryy="81" entryz="7" rent="585" townid="1" size="10" />
+	<house name="Lower Water Lane 3" houseid="119" entryx="158" entryy="78" entryz="6" rent="585" townid="1" size="10" />
+	<house name="Lower Water Lane 4" houseid="120" entryx="158" entryy="81" entryz="6" rent="585" townid="1" size="10" />
+	<house name="Lower Water Lane 5" houseid="121" entryx="167" entryy="78" entryz="7" rent="585" townid="1" size="10" />
+	<house name="Lower Water Lane 6" houseid="122" entryx="167" entryy="81" entryz="7" rent="585" townid="1" size="10" />
+	<house name="Lower Water Lane 7" houseid="123" entryx="167" entryy="78" entryz="6" rent="585" townid="1" size="10" />
+	<house name="Lower Water Lane 8" houseid="124" entryx="167" entryy="81" entryz="6" rent="585" townid="1" size="10" />
+	<house name="Armonia Village 1" houseid="125" entryx="200" entryy="74" entryz="7" rent="4740" townid="1" size="63" />
+	<house name="Armonia Village 5" houseid="126" entryx="207" entryy="68" entryz="7" rent="3300" townid="1" size="60" />
+	<house name="Armonia Village 6" houseid="127" entryx="214" entryy="68" entryz="7" rent="3300" townid="1" size="60" />
+	<house name="Armonia Village 2" houseid="128" entryx="208" entryy="74" entryz="7" rent="715" townid="1" size="10" />
+	<house name="Armonia Village 3" houseid="129" entryx="212" entryy="74" entryz="7" rent="715" townid="1" size="10" />
+	<house name="Armonia Village 4" houseid="130" entryx="216" entryy="74" entryz="7" rent="715" townid="1" size="10" />
+	<house name="Armonia Village 7" houseid="131" entryx="233" entryy="74" entryz="7" rent="3800" townid="1" size="61" />
+	<house name="Armonia Village 8" houseid="132" entryx="242" entryy="74" entryz="7" rent="3800" townid="1" size="67" />
+	<house name="Armonia Village 8 (Shop)" houseid="133" entryx="234" entryy="68" entryz="7" rent="1300" townid="1" size="18" />
+	<house name="Armonia Village 9 (Shop)" houseid="134" entryx="242" entryy="63" entryz="7" rent="1300" townid="1" size="18" />
+	<house name="Teleports Place 3 (Shop)" houseid="135" entryx="196" entryy="52" entryz="7" rent="1300" townid="1" size="19" />
+	<house name="Teleports Place 4 (Shop)" houseid="136" entryx="196" entryy="44" entryz="7" rent="1300" townid="1" size="19" />
+	<house name="Teleports Place 5 (Shop)" houseid="137" entryx="196" entryy="36" entryz="7" rent="1300" townid="1" size="19" />
+	<house name="Iskandar House" houseid="138" entryx="203" entryy="38" entryz="7" rent="8420" townid="1" size="104" />
+	<house name="Armonia River 3 (Shop)" houseid="139" entryx="0" entryy="0" entryz="0" rent="1800" townid="1" size="47" />
+	<house name="Armonia River 2 (Shop)" houseid="140" entryx="169" entryy="38" entryz="7" rent="1800" townid="1" size="39" />
+	<house name="Armonia River 1 (Shop)" houseid="141" entryx="159" entryy="40" entryz="7" rent="2115" townid="1" size="69" />
+	<house name="God House" houseid="142" entryx="147" entryy="48" entryz="7" rent="4330" townid="1" size="49" />
+	<house name="Armonia Home Apartments, Flat 01" houseid="143" entryx="143" entryy="38" entryz="7" rent="715" townid="1" size="10" />
+	<house name="Armonia Home Apartments, Flat 02" houseid="144" entryx="143" entryy="33" entryz="7" rent="715" townid="1" size="10" />
+	<house name="Armonia Home Apartments, Flat 03" houseid="145" entryx="143" entryy="28" entryz="7" rent="715" townid="1" size="10" />
+	<house name="Armonia Home Apartments, Flat 04" houseid="146" entryx="138" entryy="30" entryz="7" rent="715" townid="1" size="10" />
+	<house name="Armonia Home Apartments, Flat 05" houseid="147" entryx="134" entryy="30" entryz="7" rent="715" townid="1" size="10" />
+	<house name="Armonia Home Apartments, Flat 06" houseid="148" entryx="143" entryy="36" entryz="6" rent="715" townid="1" size="7" />
+	<house name="Armonia Home Apartments, Flat 07" houseid="149" entryx="143" entryy="32" entryz="6" rent="715" townid="1" size="7" />
+	<house name="Armonia Home Apartments, Flat 08" houseid="150" entryx="143" entryy="28" entryz="6" rent="715" townid="1" size="10" />
+	<house name="Armonia Home Apartments, Flat 09" houseid="151" entryx="139" entryy="29" entryz="6" rent="715" townid="1" size="7" />
+	<house name="Armonia Home Apartments, Flat 10" houseid="152" entryx="135" entryy="29" entryz="6" rent="715" townid="1" size="7" />
+	<house name="Armonia Circle 1 (Shop)" houseid="153" entryx="125" entryy="44" entryz="7" rent="3980" townid="1" size="48" />
+	<house name="Armonia Circle 2 (Shop)" houseid="154" entryx="118" entryy="44" entryz="7" rent="3980" townid="1" size="48" />
+	<house name="Armonia Circle 3 (Shop)" houseid="155" entryx="111" entryy="44" entryz="7" rent="3980" townid="1" size="48" />
+	<house name="God House II" houseid="156" entryx="129" entryy="49" entryz="7" rent="815" townid="1" size="21" />
+	<house name="Teleports Place 1 (Shop)" houseid="157" entryx="170" entryy="47" entryz="7" rent="1300" townid="1" size="19" />
+	<house name="Teleports Place 2 (Shop)" houseid="158" entryx="170" entryy="55" entryz="7" rent="1300" townid="1" size="19" />
+	<house name="Armonia Circle 4 (Shop)" houseid="159" entryx="104" entryy="49" entryz="7" rent="3980" townid="1" size="48" />
+	<house name="Armonia Circle 5 (Shop)" houseid="160" entryx="111" entryy="49" entryz="7" rent="3980" townid="1" size="48" />
+	<house name="Armonia Circle 6 (Shop)" houseid="161" entryx="118" entryy="49" entryz="7" rent="3980" townid="1" size="48" />
+	<house name="Armonia Guildhall" houseid="162" entryx="100" entryy="41" entryz="7" rent="8420" guildhall="true" townid="1" size="130" />
+</houses>
