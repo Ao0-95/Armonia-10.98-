@@ -168,14 +168,6 @@
 		<monster name="Hero" x="-2" y="8" z="5" spawntime="60" />
 		<monster name="Ashmunrah" x="2" y="8" z="5" spawntime="60" />
 	</spawn>
-	<spawn centerx="110" centery="87" centerz="5" radius="5">
-		<monster name="Hydra" x="0" y="-1" z="5" spawntime="340" />
-	</spawn>
-	<spawn centerx="110" centery="97" centerz="5" radius="5">
-		<monster name="Hydra" x="3" y="-3" z="5" spawntime="280" />
-		<monster name="Hydra" x="1" y="0" z="5" spawntime="280" />
-		<monster name="Hydra" x="-1" y="4" z="5" spawntime="40" />
-	</spawn>
 	<spawn centerx="182" centery="102" centerz="5" radius="4">
 		<monster name="Ancient Scarab" x="-3" y="-2" z="5" spawntime="60" />
 		<monster name="Ancient Scarab" x="3" y="-2" z="5" spawntime="60" />
@@ -301,9 +293,6 @@
 	<spawn centerx="275" centery="63" centerz="6" radius="2">
 		<monster name="Dragon" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="109" centery="64" centerz="6" radius="5">
-		<monster name="Demon Skeleton" x="-2" y="0" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="175" centery="64" centerz="6" radius="1">
 		<monster name="Training Monk" x="-1" y="1" z="6" spawntime="60" />
 		<monster name="Training Monk" x="1" y="1" z="6" spawntime="60" />
@@ -321,10 +310,6 @@
 	</spawn>
 	<spawn centerx="170" centery="67" centerz="6" radius="1">
 		<npc name="Tyoric" x="-1" y="1" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="121" centery="70" centerz="6" radius="5">
-		<monster name="Dragon" x="-5" y="0" z="6" spawntime="360" />
-		<monster name="Dragon" x="5" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="259" centery="70" centerz="6" radius="2">
 		<monster name="Dragon" x="0" y="0" z="6" spawntime="60" />
@@ -357,9 +342,6 @@
 		<monster name="Dragon" x="3" y="3" z="6" spawntime="60" />
 		<monster name="Warlock" x="2" y="4" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="127" centery="78" centerz="6" radius="5">
-		<monster name="Cyclops" x="-3" y="-1" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="369" centery="79" centerz="6" radius="5">
 		<monster name="Warlock" x="1" y="-4" z="6" spawntime="60" />
 		<monster name="Warlock" x="-1" y="-2" z="6" spawntime="60" />
@@ -373,27 +355,13 @@
 		<monster name="Warlock" x="0" y="2" z="6" spawntime="60" />
 		<monster name="Warlock" x="-2" y="3" z="6" spawntime="360" />
 	</spawn>
-	<spawn centerx="122" centery="85" centerz="6" radius="5">
-		<monster name="Cyclops" x="-2" y="3" z="6" spawntime="15" />
-	</spawn>
 	<spawn centerx="368" centery="86" centerz="6" radius="5">
 		<monster name="Warlock" x="3" y="0" z="6" spawntime="60" />
 		<monster name="Dragon" x="-4" y="3" z="6" spawntime="60" />
 		<monster name="Dragon" x="-3" y="4" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="113" centery="87" centerz="6" radius="5">
-		<monster name="Cyclops" x="-3" y="-1" z="6" spawntime="60" />
-		<monster name="Cyclops" x="1" y="-1" z="6" spawntime="60" />
-		<monster name="Cyclops" x="-2" y="4" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="376" centery="87" centerz="6" radius="5">
 		<monster name="Warlock" x="1" y="2" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="108" centery="94" centerz="6" radius="5">
-		<monster name="Cyclops" x="1" y="3" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="116" centery="100" centerz="6" radius="5">
-		<monster name="Cyclops" x="0" y="0" z="6" spawntime="10" />
 	</spawn>
 	<spawn centerx="181" centery="101" centerz="6" radius="7">
 		<monster name="Necromancer" x="-2" y="-1" z="6" spawntime="60" />
@@ -671,46 +639,14 @@
 		<monster name="Training Monk" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Training Monk" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="104" centery="77" centerz="7" radius="5">
-		<monster name="Demon Skeleton" x="1" y="-3" z="7" spawntime="60" />
-		<monster name="Demon Skeleton" x="-2" y="-1" z="7" spawntime="60" />
-		<monster name="Minotaur Guard" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Demon Skeleton" x="1" y="1" z="7" spawntime="60" />
-		<monster name="Minotaur Guard" x="-2" y="2" z="7" spawntime="60" />
-		<monster name="Skeleton" x="1" y="3" z="7" spawntime="60" />
-		<monster name="Demon Skeleton" x="0" y="5" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="429" centery="77" centerz="7" radius="5">
 		<monster name="Hydra" x="2" y="-1" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="116" centery="80" centerz="7" radius="5">
-		<monster name="Troll" x="-2" y="0" z="7" spawntime="60" />
-		<monster name="Troll" x="-1" y="2" z="7" spawntime="60" />
-		<monster name="Minotaur Guard" x="4" y="2" z="7" spawntime="60" />
-		<monster name="Demon Skeleton" x="-2" y="5" z="7" spawntime="60" />
-		<monster name="Valkyrie" x="0" y="5" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="122" centery="86" centerz="7" radius="5">
-		<monster name="Demon Skeleton" x="0" y="-5" z="7" spawntime="60" />
-		<monster name="Demon Skeleton" x="-3" y="2" z="7" spawntime="60" />
-		<monster name="Demon Skeleton" x="0" y="4" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="116" centery="89" centerz="7" radius="5">
-		<monster name="Skeleton" x="-4" y="-2" z="7" spawntime="60" />
-		<monster name="Demon Skeleton" x="-3" y="1" z="7" spawntime="60" />
-		<monster name="Demon Skeleton" x="0" y="4" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="340" centery="90" centerz="7" radius="5">
 		<npc name="Malak" x="-1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="413" centery="93" centerz="7" radius="5">
 		<monster name="Hydra" x="0" y="-4" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="108" centery="99" centerz="7" radius="5">
-		<monster name="Beholder" x="0" y="-2" z="7" spawntime="60" />
-		<monster name="Skeleton" x="2" y="-2" z="7" spawntime="60" />
-		<monster name="Skeleton" x="3" y="-2" z="7" spawntime="60" />
-		<monster name="Necromancer" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="179" centery="100" centerz="7" radius="5">
 		<monster name="Necromancer" x="3" y="-1" z="7" spawntime="60" />
