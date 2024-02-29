@@ -52,7 +52,6 @@
 	<house name="Jungle house 18" houseid="111" entryx="369" entryy="57" entryz="7" rent="0" townid="0" size="39" />
 	<house name="Jungle house 19" houseid="112" entryx="358" entryy="57" entryz="7" rent="0" townid="0" size="31" />
 	<house name="Jungle house 20" houseid="113" entryx="346" entryy="57" entryz="7" rent="0" townid="0" size="31" />
-	<house name="Iskandar house" houseid="114" entryx="210" entryy="58" entryz="7" rent="0" townid="0" size="1" />
 	<house name="Guildhall of the Rose" houseid="115" entryx="143" entryy="78" entryz="7" rent="11450" guildhall="true" townid="1" size="113" />
 	<house name="Guildhall of the City" houseid="116" entryx="139" entryy="64" entryz="7" rent="10800" townid="1" size="98" />
 	<house name="Lower Water Lane 1" houseid="117" entryx="158" entryy="78" entryz="7" rent="585" townid="1" size="10" />

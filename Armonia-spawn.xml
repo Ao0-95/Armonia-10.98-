@@ -571,21 +571,21 @@
 		<monster name="Dragon Lord" x="-1" y="-1" z="7" spawntime="60" />
 		<monster name="Dragon" x="-1" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="190" centery="59" centerz="7" radius="1">
-		<monster name="Massive Water Elemental" x="-1" y="-1" z="7" spawntime="60" />
-		<monster name="Wisp" x="1" y="-1" z="7" spawntime="60" />
-		<monster name="Massive Earth Elemental" x="-1" y="1" z="7" spawntime="60" />
-		<monster name="Massive Fire Elemental" x="1" y="1" z="7" spawntime="60" />
+	<spawn centerx="190" centery="60" centerz="7" radius="1">
+		<monster name="Massive Earth Elemental" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Massive Fire Elemental" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Little Earth Elemental" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Little Energy Elemental" x="0" y="1" z="7" spawntime="60" />
+		<monster name="Little Blazing Fire Elemental" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="161" centery="61" centerz="7" radius="2">
 		<npc name="Riona" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="189" centery="62" centerz="7" radius="1">
-		<monster name="Little Earth Elemental" x="0" y="-1" z="7" spawntime="60" />
-		<monster name="Little Energy Elemental" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Wisp" x="1" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="191" centery="62" centerz="7" radius="1">
-		<monster name="Little Blazing Fire Elemental" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Massive Water Elemental" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="175" centery="64" centerz="7" radius="1">
 		<monster name="Training Monk" x="-1" y="1" z="7" spawntime="60" />
