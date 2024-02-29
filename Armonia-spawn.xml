@@ -381,13 +381,6 @@
 	<spawn centerx="191" centery="142" centerz="6" radius="5">
 		<monster name="Demon Skeleton" x="-3" y="4" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="90" centery="194" centerz="6" radius="5">
-		<monster name="Wolf" x="-1" y="-2" z="6" spawntime="60" />
-		<monster name="Wolf" x="3" y="2" z="6" spawntime="60" />
-	</spawn>
-	<spawn centerx="91" centery="202" centerz="6" radius="5">
-		<monster name="Wolf" x="-2" y="-2" z="6" spawntime="60" />
-	</spawn>
 	<spawn centerx="423" centery="236" centerz="6" radius="5">
 		<monster name="Orc Leader" x="1" y="0" z="6" spawntime="60" />
 		<monster name="Orc Leader" x="0" y="4" z="6" spawntime="60" />
