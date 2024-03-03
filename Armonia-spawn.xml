@@ -367,10 +367,6 @@
 		<monster name="Necromancer" x="-2" y="-1" z="6" spawntime="60" />
 		<monster name="Necromancer" x="2" y="-1" z="6" spawntime="60" />
 	</spawn>
-	<spawn centerx="101" centery="130" centerz="6" radius="5">
-		<monster name="Dragon Lord" x="-1" y="-1" z="6" spawntime="140" />
-		<monster name="Dragon Lord" x="-2" y="1" z="6" spawntime="260" />
-	</spawn>
 	<spawn centerx="201" centery="133" centerz="6" radius="9">
 		<monster name="Smuggler" x="3" y="-5" z="6" spawntime="60" />
 		<monster name="Smuggler" x="4" y="-1" z="6" spawntime="60" />
@@ -381,6 +377,7 @@
 	<spawn centerx="191" centery="142" centerz="6" radius="5">
 		<monster name="Demon Skeleton" x="-3" y="4" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="54" centery="174" centerz="6" radius="1" />
 	<spawn centerx="423" centery="236" centerz="6" radius="5">
 		<monster name="Orc Leader" x="1" y="0" z="6" spawntime="60" />
 		<monster name="Orc Leader" x="0" y="4" z="6" spawntime="60" />
@@ -687,9 +684,6 @@
 		<monster name="Lizard Sentinel" x="18" y="5" z="7" spawntime="60" />
 		<monster name="Lizard Templar" x="-20" y="6" z="7" spawntime="60" />
 		<monster name="Lizard Sentinel" x="7" y="7" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="99" centery="130" centerz="7" radius="5">
-		<monster name="Dragon Lord" x="1" y="-1" z="7" spawntime="360" />
 	</spawn>
 	<spawn centerx="198" centery="131" centerz="7" radius="5">
 		<monster name="Scarab" x="-2" y="-3" z="7" spawntime="60" />
