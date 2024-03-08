@@ -91,4 +91,14 @@
 	<house name="Armonia Circle 5 (Shop)" houseid="160" entryx="111" entryy="49" entryz="7" rent="3980" townid="1" size="48" />
 	<house name="Armonia Circle 6 (Shop)" houseid="161" entryx="118" entryy="49" entryz="7" rent="3980" townid="1" size="48" />
 	<house name="Armonia Guildhall" houseid="162" entryx="100" entryy="41" entryz="7" rent="8420" guildhall="true" townid="1" size="130" />
+	<house name="Trader's Place 1 (Shop)" houseid="163" entryx="62" entryy="193" entryz="7" rent="1350" townid="5" size="19" />
+	<house name="Trader's Place 2" houseid="164" entryx="70" entryy="187" entryz="7" rent="715" townid="5" size="10" />
+	<house name="Trader's Place 3" houseid="165" entryx="70" entryy="183" entryz="7" rent="715" townid="5" size="10" />
+	<house name="Inferesla Hangout 1" houseid="166" entryx="56" entryy="160" entryz="7" rent="715" townid="5" size="10" />
+	<house name="Inferesla Hangout 2" houseid="167" entryx="52" entryy="160" entryz="7" rent="715" townid="5" size="10" />
+	<house name="Inferesla Hangout 3" houseid="168" entryx="48" entryy="160" entryz="7" rent="715" townid="5" size="10" />
+	<house name="Inferesla Hangout 4" houseid="169" entryx="48" entryy="156" entryz="7" rent="715" townid="5" size="10" />
+	<house name="Inferesla Hangout 5" houseid="170" entryx="52" entryy="156" entryz="7" rent="715" townid="5" size="10" />
+	<house name="Inferesla Hangout 6" houseid="171" entryx="62" entryy="150" entryz="7" rent="1300" townid="5" size="21" />
+	<house name="Inferesla Hangout 7" houseid="172" entryx="55" entryy="153" entryz="6" rent="765" townid="5" size="13" />
 </houses>

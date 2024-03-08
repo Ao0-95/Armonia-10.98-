@@ -3300,13 +3300,19 @@
 		<monster name="Minotaur Archer" x="2" y="-2" z="10" spawntime="60" />
 		<monster name="Minotaur" x="1" y="-1" z="10" spawntime="60" />
 	</spawn>
-	<spawn centerx="49" centery="138" centerz="11" radius="12">
-		<monster name="Dragon Lord" x="3" y="-4" z="11" spawntime="60" />
-		<monster name="Dragon" x="5" y="-1" z="11" spawntime="60" />
-		<monster name="Dragon Lord" x="-2" y="1" z="11" spawntime="60" />
-		<monster name="Dragon Lord" x="7" y="1" z="11" spawntime="60" />
-		<monster name="Dragon" x="-1" y="4" z="11" spawntime="60" />
-		<monster name="Dragon Lord" x="2" y="5" z="11" spawntime="60" />
+	<spawn centerx="48" centery="137" centerz="11" radius="2">
+		<monster name="Dragon Lord" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="56" centery="137" centerz="11" radius="2">
+		<monster name="Dragon Lord" x="0" y="0" z="11" spawntime="60" />
+		<monster name="Dragon" x="-1" y="2" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="48" centery="143" centerz="11" radius="2">
+		<monster name="Dragon" x="2" y="-1" z="11" spawntime="60" />
+		<monster name="Dragon Lord" x="0" y="0" z="11" spawntime="60" />
+	</spawn>
+	<spawn centerx="56" centery="143" centerz="11" radius="2">
+		<monster name="Dragon Lord" x="0" y="0" z="11" spawntime="60" />
 	</spawn>
 	<spawn centerx="610" centery="666" centerz="11" radius="5">
 		<monster name="Dwarf Soldier" x="3" y="0" z="11" spawntime="60" />
