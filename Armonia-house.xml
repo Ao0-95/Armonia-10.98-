@@ -1,10 +1,5 @@
 <?xml version="1.0"?>
 <houses>
-	<house name="Survival house 1" houseid="62" entryx="137" entryy="119" entryz="7" rent="0" townid="0" size="12" />
-	<house name="Survival house 2" houseid="63" entryx="139" entryy="126" entryz="7" rent="0" townid="0" size="9" />
-	<house name="Survival house 3" houseid="64" entryx="143" entryy="126" entryz="7" rent="0" townid="0" size="9" />
-	<house name="Survival house 4" houseid="65" entryx="147" entryy="126" entryz="7" rent="0" townid="0" size="9" />
-	<house name="Survival house 5" houseid="66" entryx="151" entryy="126" entryz="7" rent="0" townid="0" size="9" />
 	<house name="Survival house 6" houseid="67" entryx="165" entryy="124" entryz="7" rent="0" townid="0" size="12" />
 	<house name="Survival house 7" houseid="68" entryx="165" entryy="121" entryz="7" rent="0" townid="0" size="8" />
 	<house name="Survival house 8" houseid="69" entryx="165" entryy="118" entryz="7" rent="0" townid="0" size="12" />
