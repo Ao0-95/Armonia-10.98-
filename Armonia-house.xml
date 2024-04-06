@@ -1,9 +1,5 @@
 <?xml version="1.0"?>
 <houses>
-	<house name="Survival house 6" houseid="67" entryx="165" entryy="124" entryz="7" rent="0" townid="0" size="12" />
-	<house name="Survival house 7" houseid="68" entryx="165" entryy="121" entryz="7" rent="0" townid="0" size="8" />
-	<house name="Survival house 8" houseid="69" entryx="165" entryy="118" entryz="7" rent="0" townid="0" size="12" />
-	<house name="Survival house 9" houseid="70" entryx="186" entryy="93" entryz="7" rent="0" townid="0" size="26" />
 	<house name="Oken house 1" houseid="80" entryx="256" entryy="149" entryz="7" rent="0" townid="0" size="9" />
 	<house name="Oken house 2" houseid="81" entryx="247" entryy="150" entryz="7" rent="0" townid="0" size="9" />
 	<house name="Oken house 3" houseid="82" entryx="241" entryy="150" entryz="7" rent="0" townid="0" size="9" />
@@ -96,4 +92,10 @@
 	<house name="Inferesla Hangout 5" houseid="170" entryx="52" entryy="156" entryz="7" rent="715" townid="5" size="10" />
 	<house name="Inferesla Hangout 6" houseid="171" entryx="62" entryy="150" entryz="7" rent="1300" townid="5" size="21" />
 	<house name="Inferesla Hangout 7" houseid="172" entryx="55" entryy="153" entryz="6" rent="765" townid="5" size="13" />
+	<house name="Harbour Village 1" houseid="173" entryx="131" entryy="142" entryz="7" rent="715" townid="6" size="10" />
+	<house name="Harbour Village 2" houseid="174" entryx="140" entryy="161" entryz="7" rent="3800" townid="6" size="70" />
+	<house name="Harbour Village 3" houseid="175" entryx="150" entryy="165" entryz="7" rent="3800" townid="6" size="70" />
+	<house name="Depot Flats, Flat 1" houseid="176" entryx="151" entryy="147" entryz="7" rent="680" townid="6" size="14" />
+	<house name="Depot Flats, Flat 2" houseid="177" entryx="157" entryy="151" entryz="6" rent="680" townid="6" size="14" />
+	<house name="Depot Village 1" houseid="178" entryx="154" entryy="128" entryz="7" rent="4500" townid="6" size="65" />
 </houses>

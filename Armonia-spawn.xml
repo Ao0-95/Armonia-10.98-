@@ -1120,16 +1120,6 @@
 		<monster name="Bear" x="2" y="-1" z="7" spawntime="60" />
 		<monster name="Bear" x="0" y="2" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="92" centery="23" centerz="8" radius="5">
-		<monster name="Warlock" x="3" y="-2" z="8" spawntime="60" />
-		<monster name="Warlock" x="-2" y="0" z="8" spawntime="60" />
-		<monster name="Warlock" x="3" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="107" centery="23" centerz="8" radius="5">
-		<monster name="Warlock" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Warlock" x="-2" y="1" z="8" spawntime="60" />
-		<monster name="Warlock" x="2" y="1" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="43" centery="24" centerz="8" radius="5">
 		<monster name="Warlock" x="1" y="-1" z="8" spawntime="60" />
 		<monster name="Warlock" x="-2" y="0" z="8" spawntime="60" />
@@ -1380,15 +1370,6 @@
 		<monster name="Demon" x="0" y="-2" z="8" spawntime="20" />
 		<monster name="Demon" x="4" y="-1" z="8" spawntime="20" />
 	</spawn>
-	<spawn centerx="212" centery="96" centerz="8" radius="5">
-		<monster name="Orc Berserker" x="0" y="-5" z="8" spawntime="60" />
-		<monster name="Orc Rider" x="-3" y="-4" z="8" spawntime="60" />
-		<monster name="Orc Rider" x="3" y="-4" z="8" spawntime="60" />
-		<monster name="Orc Berserker" x="-5" y="0" z="8" spawntime="60" />
-		<monster name="Orc Berserker" x="4" y="0" z="8" spawntime="60" />
-		<monster name="Orc Berserker" x="5" y="0" z="8" spawntime="60" />
-		<monster name="Orc Leader" x="0" y="5" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="405" centery="97" centerz="8" radius="5">
 		<monster name="Warlock" x="1" y="-2" z="8" spawntime="180" />
 		<monster name="Stone Golem" x="-2" y="1" z="8" spawntime="60" />
@@ -1414,42 +1395,12 @@
 		<monster name="Stone Golem" x="3" y="0" z="8" spawntime="60" />
 		<monster name="Stone Golem" x="5" y="0" z="8" spawntime="60" />
 	</spawn>
-	<spawn centerx="229" centery="106" centerz="8" radius="5">
-		<monster name="Orc Rider" x="1" y="0" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="248" centery="108" centerz="8" radius="5">
-		<monster name="Orc Warrior" x="0" y="-1" z="8" spawntime="60" />
-		<monster name="Orc Spearman" x="-1" y="0" z="8" spawntime="60" />
-		<monster name="Orc Spearman" x="1" y="0" z="8" spawntime="60" />
-		<monster name="Orc" x="-1" y="1" z="8" spawntime="60" />
-		<monster name="Orc" x="0" y="1" z="8" spawntime="60" />
-		<monster name="Orc" x="1" y="1" z="8" spawntime="60" />
-		<monster name="Orc Berserker" x="-1" y="2" z="8" spawntime="60" />
-		<monster name="Orc Berserker" x="0" y="2" z="8" spawntime="60" />
-		<monster name="Orc Berserker" x="1" y="2" z="8" spawntime="60" />
-		<monster name="Orc Leader" x="-1" y="3" z="8" spawntime="60" />
-		<monster name="Orc Leader" x="0" y="3" z="8" spawntime="60" />
-		<monster name="Orc Leader" x="1" y="3" z="8" spawntime="60" />
-		<monster name="Orc Warlord" x="-3" y="4" z="8" spawntime="60" />
-		<monster name="Orc Warlord" x="-2" y="4" z="8" spawntime="60" />
-		<monster name="Orc Warlord" x="-1" y="4" z="8" spawntime="60" />
-		<monster name="Orc Warlord" x="0" y="4" z="8" spawntime="60" />
-		<monster name="Orc Warlord" x="1" y="4" z="8" spawntime="60" />
-	</spawn>
 	<spawn centerx="297" centery="108" centerz="8" radius="5">
 		<monster name="Demon" x="2" y="0" z="8" spawntime="20" />
 		<monster name="Demon" x="1" y="4" z="8" spawntime="20" />
 	</spawn>
 	<spawn centerx="269" centery="110" centerz="8" radius="5">
 		<monster name="Demon" x="0" y="2" z="8" spawntime="20" />
-	</spawn>
-	<spawn centerx="218" centery="112" centerz="8" radius="5">
-		<monster name="Orc Warlord" x="0" y="-5" z="8" spawntime="60" />
-		<monster name="Orc Warlord" x="-5" y="0" z="8" spawntime="60" />
-		<monster name="Orc Warlord" x="-4" y="0" z="8" spawntime="60" />
-		<monster name="Orc Leader" x="-1" y="0" z="8" spawntime="60" />
-		<monster name="Orc Leader" x="5" y="0" z="8" spawntime="60" />
-		<monster name="Orc Leader" x="2" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="318" centery="112" centerz="8" radius="5">
 		<monster name="Hero" x="0" y="-3" z="8" spawntime="60" />
@@ -1460,12 +1411,6 @@
 		<monster name="Stone Golem" x="1" y="1" z="8" spawntime="60" />
 		<monster name="Stone Golem" x="4" y="2" z="8" spawntime="60" />
 		<monster name="Stone Golem" x="2" y="4" z="8" spawntime="60" />
-	</spawn>
-	<spawn centerx="235" centery="113" centerz="8" radius="5">
-		<monster name="Orc Shaman" x="-3" y="-1" z="8" spawntime="60" />
-		<monster name="Orc Leader" x="1" y="-1" z="8" spawntime="60" />
-		<monster name="Orc Leader" x="5" y="0" z="8" spawntime="60" />
-		<monster name="Orc Shaman" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="392" centery="115" centerz="8" radius="5">
 		<monster name="Stone Golem" x="0" y="-2" z="8" spawntime="60" />
@@ -2066,8 +2011,28 @@
 	<spawn centerx="682" centery="772" centerz="8" radius="5">
 		<monster name="Rat" x="3" y="0" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="239" centery="30" centerz="9" radius="1">
+		<monster name="Banshee" x="0" y="-1" z="9" spawntime="60" />
+		<monster name="Banshee" x="-1" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="235" centery="31" centerz="9" radius="1">
+		<monster name="Demon" x="1" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="242" centery="31" centerz="9" radius="1">
+		<monster name="Demon" x="-1" y="0" z="9" spawntime="60" />
+	</spawn>
 	<spawn centerx="155" centery="34" centerz="9" radius="5">
 		<monster name="Demon" x="0" y="-3" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="235" centery="35" centerz="9" radius="1">
+		<monster name="Demon" x="1" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="242" centery="35" centerz="9" radius="1">
+		<monster name="Demon" x="-1" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="238" centery="36" centerz="9" radius="1">
+		<monster name="Banshee" x="1" y="-1" z="9" spawntime="60" />
+		<monster name="Banshee" x="0" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="422" centery="41" centerz="9" radius="5">
 		<monster name="Demon" x="-1" y="1" z="9" spawntime="20" />
@@ -2075,62 +2040,40 @@
 	<spawn centerx="154" centery="43" centerz="9" radius="5">
 		<monster name="Demon" x="0" y="-1" z="9" spawntime="320" />
 	</spawn>
-	<spawn centerx="357" centery="45" centerz="9" radius="13">
-		<monster name="Banshee" x="-3" y="-1" z="9" spawntime="60" />
-		<monster name="Demon" x="0" y="-1" z="9" spawntime="60" />
-		<monster name="Banshee" x="4" y="-1" z="9" spawntime="60" />
-		<monster name="Demon" x="-4" y="1" z="9" spawntime="60" />
-		<monster name="Demon" x="4" y="2" z="9" spawntime="60" />
-		<monster name="Banshee" x="-3" y="4" z="9" spawntime="60" />
-		<monster name="Banshee" x="4" y="4" z="9" spawntime="60" />
-		<monster name="Demon" x="0" y="5" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="331" centery="51" centerz="9" radius="5">
-		<monster name="Fire Elemental" x="0" y="-3" z="9" spawntime="60" />
-		<monster name="Demon" x="4" y="-3" z="9" spawntime="60" />
-		<monster name="Fire Elemental" x="-3" y="-2" z="9" spawntime="60" />
-		<monster name="Fire Elemental" x="3" y="-1" z="9" spawntime="60" />
-		<monster name="Demon" x="-5" y="0" z="9" spawntime="60" />
-		<monster name="Fire Elemental" x="-3" y="1" z="9" spawntime="60" />
-		<monster name="Demon" x="4" y="2" z="9" spawntime="60" />
-		<monster name="Demon" x="-3" y="4" z="9" spawntime="60" />
-		<monster name="Fire Elemental" x="2" y="4" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="316" centery="52" centerz="9" radius="5">
-		<monster name="Fire Elemental" x="1" y="-2" z="9" spawntime="60" />
-		<monster name="Fire Elemental" x="-3" y="0" z="9" spawntime="60" />
-		<monster name="Fire Elemental" x="3" y="0" z="9" spawntime="60" />
+	<spawn centerx="251" centery="50" centerz="9" radius="1">
 		<monster name="Demon" x="0" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="240" centery="51" centerz="9" radius="2">
+		<monster name="Fire Elemental" x="0" y="-2" z="9" spawntime="60" />
+		<monster name="Fire Elemental" x="1" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="245" centery="54" centerz="9" radius="2">
+		<monster name="Fire Elemental" x="0" y="-1" z="9" spawntime="60" />
+		<monster name="Fire Elemental" x="1" y="0" z="9" spawntime="60" />
+		<monster name="Fire Elemental" x="-1" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="251" centery="54" centerz="9" radius="2">
+		<monster name="Demon" x="-1" y="0" z="9" spawntime="60" />
+		<monster name="Demon" x="1" y="0" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="393" centery="55" centerz="9" radius="5">
 		<monster name="Orshabaal" x="-2" y="3" z="9" spawntime="60" />
 		<monster name="Orshabaal" x="2" y="3" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="271" centery="56" centerz="9" radius="5">
-		<monster name="Fire Elemental" x="-4" y="0" z="9" spawntime="60" />
-		<monster name="Demon" x="4" y="0" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="262" centery="59" centerz="9" radius="5">
-		<monster name="Fire Elemental" x="0" y="-2" z="9" spawntime="60" />
+	<spawn centerx="240" centery="57" centerz="9" radius="2">
 		<monster name="Fire Elemental" x="1" y="0" z="9" spawntime="60" />
-		<monster name="Fire Elemental" x="-1" y="1" z="9" spawntime="60" />
-		<monster name="Fire Elemental" x="1" y="2" z="9" spawntime="60" />
-		<monster name="Fire Elemental" x="-1" y="3" z="9" spawntime="60" />
-		<monster name="Fire Elemental" x="1" y="4" z="9" spawntime="60" />
-		<monster name="Fire Elemental" x="0" y="5" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="311" centery="59" centerz="9" radius="5">
-		<monster name="Fire Elemental" x="-2" y="-2" z="9" spawntime="60" />
-		<monster name="Fire Elemental" x="-1" y="0" z="9" spawntime="60" />
-		<monster name="Fire Elemental" x="-2" y="1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="261" centery="69" centerz="9" radius="5">
-		<monster name="Fire Elemental" x="1" y="-1" z="9" spawntime="60" />
-		<monster name="Fire Elemental" x="0" y="1" z="9" spawntime="60" />
-		<monster name="Fire Elemental" x="1" y="1" z="9" spawntime="60" />
 		<monster name="Fire Elemental" x="0" y="2" z="9" spawntime="60" />
-		<monster name="Fire Elemental" x="1" y="2" z="9" spawntime="60" />
-		<monster name="Fire Elemental" x="1" y="3" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="251" centery="58" centerz="9" radius="1">
+		<monster name="Demon" x="0" y="-1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="238" centery="69" centerz="9" radius="2">
+		<monster name="Fire Elemental" x="-1" y="-1" z="9" spawntime="60" />
+		<monster name="Demon" x="1" y="0" z="9" spawntime="60" />
+		<monster name="Fire Elemental" x="-1" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="231" centery="70" centerz="9" radius="2">
+		<monster name="Fire Elemental" x="0" y="-1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="188" centery="71" centerz="9" radius="2">
 		<monster name="Fire Elemental" x="0" y="0" z="9" spawntime="60" />
@@ -2149,9 +2092,10 @@
 		<monster name="Orshabaal" x="0" y="-2" z="9" spawntime="60" />
 		<monster name="Orshabaal" x="0" y="2" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="253" centery="76" centerz="9" radius="5">
-		<monster name="Black Knight" x="-5" y="0" z="9" spawntime="60" />
-		<monster name="Banshee" x="4" y="0" z="9" spawntime="999" />
+	<spawn centerx="231" centery="76" centerz="9" radius="2">
+		<monster name="Fire Elemental" x="-1" y="-1" z="9" spawntime="60" />
+		<monster name="Fire Elemental" x="1" y="-1" z="9" spawntime="60" />
+		<monster name="Fire Elemental" x="0" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="167" centery="79" centerz="9" radius="2">
 		<monster name="Fire Elemental" x="0" y="0" z="9" spawntime="60" />
@@ -2159,12 +2103,16 @@
 	<spawn centerx="175" centery="79" centerz="9" radius="2">
 		<monster name="Fire Elemental" x="0" y="0" z="9" spawntime="60" />
 	</spawn>
-	<spawn centerx="235" centery="83" centerz="9" radius="5">
-		<monster name="Black Knight" x="2" y="1" z="9" spawntime="60" />
-		<monster name="Black Knight" x="-4" y="3" z="9" spawntime="440" />
-	</spawn>
 	<spawn centerx="175" centery="85" centerz="9" radius="2">
 		<monster name="Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="231" centery="88" centerz="9" radius="2">
+		<monster name="Fire Elemental" x="0" y="-2" z="9" spawntime="60" />
+		<monster name="Fire Elemental" x="-1" y="-1" z="9" spawntime="60" />
+		<monster name="Fire Elemental" x="1" y="-1" z="9" spawntime="60" />
+		<monster name="Fire Elemental" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Fire Elemental" x="-1" y="1" z="9" spawntime="60" />
+		<monster name="Fire Elemental" x="1" y="1" z="9" spawntime="60" />
 	</spawn>
 	<spawn centerx="196" centery="89" centerz="9" radius="1">
 		<monster name="Demon" x="-1" y="1" z="9" spawntime="60" />
@@ -2180,14 +2128,6 @@
 	<spawn centerx="197" centery="95" centerz="9" radius="1">
 		<monster name="Demon" x="-1" y="-1" z="9" spawntime="60" />
 		<monster name="Demon" x="1" y="-1" z="9" spawntime="60" />
-	</spawn>
-	<spawn centerx="231" centery="96" centerz="9" radius="5">
-		<monster name="Black Knight" x="0" y="-2" z="9" spawntime="440" />
-		<monster name="Banshee" x="0" y="5" z="9" spawntime="340" />
-	</spawn>
-	<spawn centerx="247" centery="103" centerz="9" radius="5">
-		<monster name="Banshee" x="-5" y="0" z="9" spawntime="60" />
-		<monster name="Banshee" x="5" y="0" z="9" spawntime="340" />
 	</spawn>
 	<spawn centerx="44" centery="123" centerz="9" radius="2">
 		<monster name="Demon" x="0" y="0" z="9" spawntime="60" />
@@ -2676,15 +2616,18 @@
 		<monster name="Orshabaal" x="-2" y="-1" z="10" spawntime="100" />
 		<monster name="Orshabaal" x="2" y="-1" z="10" spawntime="100" />
 	</spawn>
-	<spawn centerx="286" centery="57" centerz="10" radius="5">
-		<monster name="Demon" x="-5" y="0" z="10" spawntime="60" />
-		<monster name="Demon" x="0" y="2" z="10" spawntime="60" />
-		<monster name="Fire Elemental" x="2" y="3" z="10" spawntime="60" />
-		<monster name="Fire Elemental" x="0" y="4" z="10" spawntime="60" />
-	</spawn>
 	<spawn centerx="399" centery="63" centerz="10" radius="5">
 		<monster name="Orshabaal" x="-2" y="1" z="10" spawntime="100" />
 		<monster name="Orshabaal" x="2" y="1" z="10" spawntime="100" />
+	</spawn>
+	<spawn centerx="249" centery="65" centerz="10" radius="2">
+		<monster name="Fire Elemental" x="1" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="254" centery="69" centerz="10" radius="2">
+		<monster name="Demon" x="0" y="0" z="10" spawntime="60" />
+	</spawn>
+	<spawn centerx="249" centery="73" centerz="10" radius="2">
+		<monster name="Fire Elemental" x="1" y="0" z="10" spawntime="60" />
 	</spawn>
 	<spawn centerx="376" centery="82" centerz="10" radius="5">
 		<monster name="Orshabaal" x="-1" y="-2" z="10" spawntime="100" />
