@@ -1,33 +1,5 @@
 <?xml version="1.0"?>
 <houses>
-	<house name="Oken house 1" houseid="80" entryx="256" entryy="149" entryz="7" rent="0" townid="0" size="9" />
-	<house name="Oken house 2" houseid="81" entryx="247" entryy="150" entryz="7" rent="0" townid="0" size="9" />
-	<house name="Oken house 3" houseid="82" entryx="241" entryy="150" entryz="7" rent="0" townid="0" size="9" />
-	<house name="Oken house 4" houseid="83" entryx="247" entryy="147" entryz="7" rent="0" townid="0" size="6" />
-	<house name="Oken house 5" houseid="84" entryx="241" entryy="147" entryz="7" rent="0" townid="0" size="6" />
-	<house name="Oken house 6" houseid="85" entryx="247" entryy="143" entryz="7" rent="0" townid="0" size="12" />
-	<house name="Oken house 7" houseid="86" entryx="241" entryy="143" entryz="7" rent="0" townid="0" size="12" />
-	<house name="Oken house 8" houseid="87" entryx="243" entryy="136" entryz="7" rent="0" townid="0" size="9" />
-	<house name="Oken house 9" houseid="88" entryx="239" entryy="136" entryz="7" rent="0" townid="0" size="12" />
-	<house name="Oken house 10" houseid="89" entryx="231" entryy="140" entryz="7" rent="0" townid="0" size="24" />
-	<house name="Oken house 11" houseid="90" entryx="226" entryy="140" entryz="7" rent="0" townid="0" size="24" />
-	<house name="Oken house 12" houseid="91" entryx="235" entryy="165" entryz="7" rent="0" townid="0" size="9" />
-	<house name="Oken house 13" houseid="92" entryx="229" entryy="165" entryz="7" rent="0" townid="0" size="16" />
-	<house name="Oken guild house" houseid="93" entryx="202" entryy="161" entryz="7" rent="0" townid="0" size="109" />
-	<house name="Jungle house 1" houseid="94" entryx="318" entryy="66" entryz="6" rent="0" townid="0" size="20" />
-	<house name="Jungle house 2" houseid="95" entryx="317" entryy="68" entryz="6" rent="0" townid="0" size="24" />
-	<house name="Jungle house 3" houseid="96" entryx="317" entryy="72" entryz="6" rent="0" townid="0" size="24" />
-	<house name="Jungle house 4" houseid="97" entryx="317" entryy="76" entryz="6" rent="0" townid="0" size="24" />
-	<house name="Jungle house 5" houseid="98" entryx="317" entryy="80" entryz="6" rent="0" townid="0" size="24" />
-	<house name="Jungle house 6" houseid="99" entryx="317" entryy="84" entryz="6" rent="0" townid="0" size="24" />
-	<house name="Jungle house 7" houseid="100" entryx="321" entryy="86" entryz="6" rent="0" townid="0" size="25" />
-	<house name="Jungle house 8" houseid="101" entryx="324" entryy="91" entryz="6" rent="0" townid="0" size="15" />
-	<house name="Jungle house 9" houseid="102" entryx="319" entryy="91" entryz="6" rent="0" townid="0" size="9" />
-	<house name="Jungle house 10" houseid="103" entryx="315" entryy="91" entryz="6" rent="0" townid="0" size="9" />
-	<house name="Jungle house 11" houseid="104" entryx="311" entryy="91" entryz="6" rent="0" townid="0" size="9" />
-	<house name="Jungle house 12" houseid="105" entryx="307" entryy="91" entryz="6" rent="0" townid="0" size="9" />
-	<house name="Jungle house 13" houseid="106" entryx="325" entryy="69" entryz="7" rent="0" townid="0" size="15" />
-	<house name="Jungle house 14" houseid="107" entryx="332" entryy="71" entryz="7" rent="0" townid="0" size="24" />
 	<house name="Jungle house 15" houseid="108" entryx="353" entryy="62" entryz="7" rent="0" townid="0" size="12" />
 	<house name="Jungle house 16" houseid="109" entryx="358" entryy="62" entryz="7" rent="0" townid="0" size="15" />
 	<house name="Jungle house 17" houseid="110" entryx="366" entryy="62" entryz="7" rent="0" townid="0" size="18" />
@@ -98,4 +70,18 @@
 	<house name="Depot Flats, Flat 1" houseid="176" entryx="151" entryy="147" entryz="7" rent="680" townid="6" size="14" />
 	<house name="Depot Flats, Flat 2" houseid="177" entryx="157" entryy="151" entryz="6" rent="680" townid="6" size="14" />
 	<house name="Depot Village 1" houseid="178" entryx="154" entryy="128" entryz="7" rent="4500" townid="6" size="65" />
+	<house name="North Lane 1a" houseid="179" entryx="287" entryy="137" entryz="7" rent="2260" townid="7" size="44" />
+	<house name="Oken Village 5" houseid="180" entryx="297" entryy="144" entryz="7" rent="715" townid="7" size="10" />
+	<house name="Oken Village 1" houseid="181" entryx="276" entryy="152" entryz="7" rent="715" townid="7" size="10" />
+	<house name="Oken Village 2" houseid="182" entryx="271" entryy="157" entryz="7" rent="715" townid="7" size="10" />
+	<house name="North Lane 2a" houseid="183" entryx="287" entryy="133" entryz="7" rent="2260" townid="7" size="44" />
+	<house name="North Lane 1b" houseid="184" entryx="290" entryy="140" entryz="6" rent="1700" townid="7" size="37" />
+	<house name="North Lane 2b" houseid="185" entryx="290" entryy="128" entryz="6" rent="1700" townid="7" size="37" />
+	<house name="North Lane 3b (Shop)" houseid="186" entryx="0" entryy="0" entryz="0" rent="1100" townid="7" size="14" />
+	<house name="North Lane 3a (Shop)" houseid="187" entryx="276" entryy="127" entryz="7" rent="1100" townid="7" size="14" />
+	<house name="North Lane 4a" houseid="188" entryx="264" entryy="131" entryz="7" rent="3800" townid="7" size="63" />
+	<house name="North Lane 4b" houseid="189" entryx="249" entryy="127" entryz="7" rent="3800" townid="7" size="63" />
+	<house name="Oken Village 3" houseid="190" entryx="265" entryy="152" entryz="7" rent="715" townid="7" size="10" />
+	<house name="Oken Village 4 (Shop)" houseid="191" entryx="259" entryy="148" entryz="7" rent="2150" townid="7" size="43" />
+	<house name="Lonely Sea Guildhall" houseid="192" entryx="237" entryy="159" entryz="7" rent="10800" guildhall="true" townid="7" size="138" />
 </houses>
