@@ -500,16 +500,10 @@
 	<spawn centerx="348" centery="75" centerz="7" radius="2">
 		<npc name="Riona" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="429" centery="77" centerz="7" radius="5">
-		<monster name="Hydra" x="2" y="-1" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="351" centery="81" centerz="7" radius="2">
 		<npc name="Soya" x="0" y="-1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="330" centery="91" centerz="7" radius="1" />
-	<spawn centerx="430" centery="102" centerz="7" radius="5">
-		<monster name="Hydra" x="3" y="-4" z="7" spawntime="60" />
-	</spawn>
 	<spawn centerx="276" centery="116" centerz="7" radius="2">
 		<monster name="Hyaena" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -1090,11 +1084,9 @@
 		<monster name="Serpent Spawn" x="20" y="-13" z="8" spawntime="60" />
 		<monster name="Serpent Spawn" x="-10" y="-12" z="8" spawntime="60" />
 		<monster name="Serpent Spawn" x="25" y="-10" z="8" spawntime="60" />
-		<monster name="Serpent Spawn" x="-25" y="0" z="8" spawntime="60" />
 		<monster name="Serpent Spawn" x="-9" y="3" z="8" spawntime="60" />
 		<monster name="Serpent Spawn" x="7" y="4" z="8" spawntime="60" />
 		<monster name="Serpent Spawn" x="21" y="5" z="8" spawntime="60" />
-		<monster name="Serpent Spawn" x="-16" y="8" z="8" spawntime="60" />
 		<monster name="Warlock" x="-29" y="29" z="8" spawntime="220" />
 		<monster name="Warlock" x="-22" y="29" z="8" spawntime="260" />
 		<monster name="Stone Golem" x="-25" y="30" z="8" spawntime="60" />
